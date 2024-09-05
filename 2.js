@@ -1,1 +1,5 @@
-const c = 0
+const c = 0;
+() => {
+    console.log(11);
+
+}
