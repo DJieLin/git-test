@@ -1,4 +1,4 @@
-const c = 1;
+const c = 12;
 () => {
     console.log(11);
 
