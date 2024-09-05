@@ -1,5 +1,5 @@
 const c = 0;
-const cc = 234444444;
+const cc = 23;
 () => {
     console.log(11);
 
